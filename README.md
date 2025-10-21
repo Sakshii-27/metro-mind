@@ -1,4 +1,4 @@
-# MetroMind – The Thinking Brain of Kochi Metro Depot
+# MetroMind 
 ## 🚇 Overview
 MetroMind is an AI-powered intelligent depot management and scheduling system built for Kochi Metro.
 It acts as the central brain for depot operations — autonomously optimizing train scheduling, maintenance planning, and resource allocation through advanced mathematical optimization and machine learning.
